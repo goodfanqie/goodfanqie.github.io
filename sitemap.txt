@@ -1,0 +1,7 @@
+http://example.com/2022/12/26/hello-world/
+http://example.com/2022/12/26/testpost/
+http://example.com/series/index.html
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/
