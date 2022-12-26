@@ -1,4 +1,3 @@
-http://example.com/googled1a58ca727ec9df5.html
 http://example.com/2022/12/26/hello-world/
 http://example.com/2022/12/26/testpost/
 http://example.com/series/index.html
