@@ -1,7 +1,7 @@
-http://example.com/2022/12/26/hello-world/
-http://example.com/2022/12/26/testpost/
-http://example.com/series/index.html
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/about/index.html
-http://example.com/
+https://goodfanqie.github.io/2022/12/26/hello-world/
+https://goodfanqie.github.io/2022/12/26/testpost/
+https://goodfanqie.github.io/series/index.html
+https://goodfanqie.github.io/tags/index.html
+https://goodfanqie.github.io/categories/index.html
+https://goodfanqie.github.io/about/index.html
+https://goodfanqie.github.io/
