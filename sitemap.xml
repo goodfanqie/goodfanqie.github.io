@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://goodfanqie.github.io/2022/12/26/hello-world/</loc>
+    <loc>https://goodfanqie.github.io/2022/12/26/testpost/</loc>
     
-    <lastmod>2022-12-26</lastmod>
+    <lastmod>2022-12-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://goodfanqie.github.io/2022/12/26/testpost/</loc>
+    <loc>https://goodfanqie.github.io/schedule/index.html</loc>
+    
+    <lastmod>2022-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://goodfanqie.github.io/2022/12/26/hello-world/</loc>
     
     <lastmod>2022-12-26</lastmod>
     
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://goodfanqie.github.io/</loc>
-    <lastmod>2022-12-26</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
